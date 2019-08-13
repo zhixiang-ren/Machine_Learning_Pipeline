@@ -1,22 +1,25 @@
 # Build (automated) Machine Learning pipeline from an engineeringer perspective. 
-# Requirement: Anaconda (Python 3.6)
+### Requirement: Anaconda (Python 3.6)
 
-## 1. An overview of Machine learning workflow, including data preprocessin & feature engineering, model selection and model optimization.  
+### 1. An overview of Machine learning workflow, including data preprocessin & feature engineering, model selection and model optimization.  
 
-## 2. Most popular Machine Learning models implementaions with Python.
+### 2. Most popular Machine Learning models implementaions with Python.
 
-## 3. Data Preprocessing and feature engineering examples.
+### 3. Data Preprocessing and feature engineering examples.
 
-## 4. Mmodel selection methods.
+### 4. Mmodel selection methods.
 
-## 5. Model optimization (hyper-parameter tuning) methods.
+### 5. Model optimization (hyper-parameter tuning) methods.
 
-## 6. (Automated) Machine Learning pipeline.
+### 6. (Automated) Machine Learning pipeline.
 
-## 7. Deep Learning examples. 
+### 7. Deep Learning examples. 
 
 
-## Data Science Project Standard Operation Process:
+
+
+
+# Data Science Project Standard Operation Process:
 
 ### Understand the whole picture of the scientific/business project focusing on goals, scope, resources, limitations, iterations and checkpoints
 1. Get familiar with decision making processes and split them for different scenarios.
