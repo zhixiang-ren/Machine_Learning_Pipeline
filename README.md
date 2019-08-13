@@ -1,5 +1,4 @@
-# Build (automated) Machine Learning pipeline from an engineeringer perspective. 
-### Requirement: Anaconda (Python 3.6)
+# Build (automated) Machine Learning pipelines in Python (require Anaconda Python 3.6)
 
 ### 1. An overview of Machine learning workflow, including data preprocessin & feature engineering, model selection and model optimization.  
 
