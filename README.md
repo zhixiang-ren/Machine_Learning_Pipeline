@@ -18,7 +18,7 @@
 
 
 
-# Data Science Project Standard Operation Process:
+# Data Science Project Standard Operation Procedure:
 
 ### 1. Understand the whole picture of the scientific/business project focusing on goals, scope, resources, limitations, iterations and checkpoints
 1. Get familiar with decision making processes and split them for different scenarios.
