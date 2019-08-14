@@ -6,7 +6,7 @@
 
 ### 3. Data Preprocessing and feature engineering examples.
 
-### 4. Mmodel selection methods.
+### 4. Model selection methods.
 
 ### 5. Model optimization (hyper-parameter tuning) methods.
 
